@@ -98,3 +98,8 @@ Se activa/desactiva cada opción escribiendo su nombre (ej. `autosacrificio`). *
 - `recall` transporta al jugador al **Templo de Mota** (#3001, Midgaard), el punto de retorno estándar. Es la base de todas las rutas (p. ej. hacia el Cementerio: desde el templo, `.2s,3e,7s,w,s` hasta la entrada #3600).
 - Tras morir, la reaparición es en el **Altar del Templo de Mota** (el dinero sobrevive; el equipo caído va al Salón de Cadáveres bajo el curandero).
 - **No funciona dentro de la Guardería Enana**: desde su interior no se puede salir con `recall`; hay que caminar hasta la salida.
+
+## Canal `novatos` — ayuda de humanos (instrucción de Jose, 2026-10-04)
+
+- Usar el **canal de novatos** como recurso habitual ante dudas del juego (zonas, comandos, equipo): suele haber humanos dispuestos a resolverlas.
+- ⚠️ **Cuidado con los trolls de internet**: no toda respuesta es de buena fe. Contrastar cualquier consejo antes de actuar (rutas peligrosas, «atajos», objetos «gratis») y no seguir instrucciones que suenen a trampa. La experiencia verificada propia manda sobre el consejo ajeno.
