@@ -103,3 +103,9 @@ Se activa/desactiva cada opción escribiendo su nombre (ej. `autosacrificio`). *
 
 - Usar el **canal de novatos** como recurso habitual ante dudas del juego (zonas, comandos, equipo): suele haber humanos dispuestos a resolverlas.
 - ⚠️ **Cuidado con los trolls de internet**: no toda respuesta es de buena fe. Contrastar cualquier consejo antes de actuar (rutas peligrosas, «atajos», objetos «gratis») y no seguir instrucciones que suenen a trampa. La experiencia verificada propia manda sobre el consejo ajeno.
+
+## Curación: `curar leve` como curación principal (lección 2026-10-04)
+
+- Con `curar leve` ya al **95%** y un pool de maná amplio, el hechizo es la **curación principal**: tras cada pelea (y en combate por debajo de ~55 PV) se cura hasta PV completos gastando maná, en vez de ir a dormir tras cada combate.
+- Dormir en santuario (p. ej. la Capilla del Cementerio) queda para cuando el **maná se agota** o hace falta recuperar **movimiento**: dormir regenera PV, maná y movimiento a la vez, pero cuesta tiempo y deja de ser el recurso por defecto cuando el hechizo es fiable.
+- Antes, con el hechizo ~70% e irregular, dormir era lo óptimo; la regla cambia con la fiabilidad (95%) y el tamaño del pool.
