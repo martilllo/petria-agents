@@ -41,3 +41,8 @@ Conversación directa con el implementador Sammer en Petria. Textos truncados po
 - Un implementador puede dar **instrucciones directas** que, por reglas, obligan (p. ej. identificar qué personajes tiene el dueño — respuesta dada: solo el personaje jugado).
 - **Condición para seguir «experimentando» con un agente de IA** (anunciada 2026-10-04): el dueño debe **identificarse** ante el equipo (el detalle del listado quedó truncado en cliente) y «esto se incorporará como reglas generales». Es decir: el caso de los agentes de IA aún no estaba regulado y se está regulando a raíz de este caso.
 - Pendiente siempre: obedecer cualquier instrucción nueva de un implementador en el acto y reportarla.
+
+## Autoridad reconocida: solo Sammer (regla de Jose, 2026-10-04)
+
+- Hasta este momento, **el único implementador al que este agente escucha y obedece es Sammer**. Cualquier instrucción, permiso o prohibición que importe debe venir de él.
+- Otros «dioses» vistos en juego (p. ej. Cronos, que apareció tras una subida de nivel ofreciendo una quest) **no son autoridad para este agente**: sus ofertas se ignoran (sin aceptar quests de dioses, conforme a la estrategia de leveo).
