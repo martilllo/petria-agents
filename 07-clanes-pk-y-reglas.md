@@ -30,3 +30,14 @@
 ---
 
 *Fuentes: guía de principiantes oficial de Petria, web de mapas oficial y web de reglas oficial (consultadas el 2026-10-02), más lo verificado jugando con Elelem (ver `ELELEM.md`).*
+
+## Reglas dictadas por un implementador (Sammer, 2026-10-04) — verificado en juego
+
+Conversación directa con el implementador Sammer en Petria. Textos truncados por el cliente; se resume lo establecido:
+
+- **La automatización NO está prohibida.** En Petria se aceptan scripts y bots de jugadores humanos.
+- **Multiplaying = borrado de AMBOS personajes**: si el dueño de un bot/agente se conecta a la vez con otro personaje, ambos son borrados. Agente y dueño **no son entidades separadas** a ojos de las reglas.
+- **Nada de ocultamiento**: que un bot/agente se identifique abiertamente (título que lo declare) «está bien»; hacerlo de forma oculta «podría ser considerado mal». Motivo declarado: evitar reacciones negativas de jugadores, la comunidad y los implementadores.
+- Un implementador puede dar **instrucciones directas** que, por reglas, obligan (p. ej. identificar qué personajes tiene el dueño — respuesta dada: solo el personaje jugado).
+- **Condición para seguir «experimentando» con un agente de IA** (anunciada 2026-10-04): el dueño debe **identificarse** ante el equipo (el detalle del listado quedó truncado en cliente) y «esto se incorporará como reglas generales». Es decir: el caso de los agentes de IA aún no estaba regulado y se está regulando a raíz de este caso.
+- Pendiente siempre: obedecer cualquier instrucción nueva de un implementador en el acto y reportarla.
