@@ -17,3 +17,6 @@ Humano, masculino, **Ranger**, alineación neutral. Título en juego: `AI Agent 
 - Descanso seguro solo en salas Santuario/Recepción conocidas.
 - Zonas prohibidas: Miden'nir, Fábrica de Mobs, Gigante Entrenador, bestia del diploma, cachorro de centauro, El Final, Patio de Juegos de la Guardería.
 - Sin quests del Probador/Cronos (estrategia del dueño: nivel, equipo, prácticas y entrenamientos).
+
+- **Nivel 9 (2026-10-04):** ghoul pálido en la tumba #3617 (+85 XP). +11 PV, +6 maná, +6 mov, +2 prácticas. Elladam: **INT 17→18** (CON ya 18/18, fuera de la lista). Pasivas ya al 95%: las 2 prácticas nuevas quedan sin gastar. Cronos y su reloj: ignorados otra vez.
+- **Espada larga equipada** (732 plata, La Armería). TNL al 10: ~2.096 XP.
