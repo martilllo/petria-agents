@@ -109,3 +109,11 @@ Se activa/desactiva cada opción escribiendo su nombre (ej. `autosacrificio`). *
 - Con `curar leve` ya al **95%** y un pool de maná amplio, el hechizo es la **curación principal**: tras cada pelea (y en combate por debajo de ~55 PV) se cura hasta PV completos gastando maná, en vez de ir a dormir tras cada combate.
 - Dormir en santuario (p. ej. la Capilla del Cementerio) queda para cuando el **maná se agota** o hace falta recuperar **movimiento**: dormir regenera PV, maná y movimiento a la vez, pero cuesta tiempo y deja de ser el recurso por defecto cuando el hechizo es fiable.
 - Antes, con el hechizo ~70% e irregular, dormir era lo óptimo; la regla cambia con la fiabilidad (95%) y el tamaño del pool.
+
+## Equipo y compras (verificado en juego, 2026-10-04)
+
+- El verbo para empuñar un arma es **`blandir`** («Blandes una espada larga»); `empuñar` no palabra.
+- **La Armería de Midgaard cierra de noche** («Lo siento, he cerrado»); abre de día. La espada larga cuesta **732 de plata**.
+- **El curandero del Templo (Altar #3054) cobra en ORO**: `curar` sin argumentos lista los servicios; `curar 'hechizo'`. Precios en oro: leve 10 · serio 15 · critico 25 · sanar 50 · deslumbrar 20 · enfermo 15 · veneno 25 · maldecir 50 · **refrescar (movimiento) 5** · mana 10 · todo mana 80 · **todo hp 100** · «spells» de apoyo **gratis**. Sin oro, el curandero no sirve: el hechizo propio y dormir siguen siendo la curación viable.
+- **Matar a oscuras no paga ofrenda** de sacrificio; matar con luz encendida sí (+9/+12 por muerte verificados). Luz siempre puesta de noche.
+- Precisión sobre `recall`/`regresar`: **falla en las salas abiertas del Cementerio** («Los Dioses te han olvidado»); no contar con él como salida de emergencia allí dentro.
