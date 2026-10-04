@@ -92,3 +92,9 @@ Nada de spam en canales: el abuso se castiga quitando los canales (regla 5) y la
 
 ### Configuración automática (`auto` para verla)
 Se activa/desactiva cada opción escribiendo su nombre (ej. `autosacrificio`). **Verificado en la práctica:** AutoOro viene ACTIVO (recoges monedas solo), AutoRobo y AutoSacrificio pueden venir INACTIVOS según el pj. `nosummon` = inmunidad a que te teletransporten. `noseguir` = rechazar seguidores.
+
+## `recall` — retorno al templo (verificado en juego)
+
+- `recall` transporta al jugador al **Templo de Mota** (#3001, Midgaard), el punto de retorno estándar. Es la base de todas las rutas (p. ej. hacia el Cementerio: desde el templo, `.2s,3e,7s,w,s` hasta la entrada #3600).
+- Tras morir, la reaparición es en el **Altar del Templo de Mota** (el dinero sobrevive; el equipo caído va al Salón de Cadáveres bajo el curandero).
+- **No funciona dentro de la Guardería Enana**: desde su interior no se puede salir con `recall`; hay que caminar hasta la salida.
