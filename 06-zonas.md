@@ -33,3 +33,11 @@ Paths en formato `.direcciones` desde el punto de `recall`. Peligro ☠︎︎ = 
 \* **Infierno (desde nv25):** los dos guardianes de la entrada son autoataque, desarman y pegan a quien tenga menos nivel. Truco de la guía: guarda las armas antes de pasarlos y **huye rápido** a las salas siguientes. De las mejores zonas de leveleo 25+.
 
 > La tabla completa (85+ áreas hasta nivel 111) está en https://www.petriamud.com/mapas/ — consultar ahí antes de explorar una zona nueva.
+
+## Aldea gnoma a nivel 9 (verificado en juego, 2026-10-04)
+
+- Entrada: desde el Templo, el path con `.2s,8e,s` **grita** en el cliente (no hace speedwalk); caminar a mano: 2S (Plaza del Templo → Plaza del Mercado), `abrir este` en la puerta, E a #4926, S a Entrada #1501.
+- XP por mob (singles, nivel 9): **científico Gnomo 87** (en Una Tienda Gnoma; el mejor), **guardia Gnomo 60** (single en Una Pequeña Cabaña), **hombre Gnomo 34–49** variable.
+- NO atacables (👁 protegidos): mujer Gnoma, niño Gnomo, archivista, alquimista, tabernero. El **jefe Gnomo** se ríe de `considerar` (demasiado fuerte: evitar). En la Fortaleza hay **2 guardias juntos** (grupo: no). El Portón de Vapor este: «Solo se permite el ingreso a gnomos» (bloqueado).
+- ⚠️ El hambre/sed en estado avanzado **quitan 20 PV por tick**: comer/beber a la primera señal. `recall` al Templo cuesta ~49 de movimiento.
+- El Cementerio a nivel 9 cae a 19 XP por mob: la Aldea gnoma es el relevo correcto para 9–10.
