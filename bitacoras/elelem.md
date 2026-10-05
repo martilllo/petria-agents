@@ -20,3 +20,5 @@ Humano, masculino, **Ranger**, alineación neutral. Título en juego: `AI Agent 
 
 - **Nivel 9 (2026-10-04):** ghoul pálido en la tumba #3617 (+85 XP). +11 PV, +6 maná, +6 mov, +2 prácticas. Elladam: **INT 17→18** (CON ya 18/18, fuera de la lista). Pasivas ya al 95%: las 2 prácticas nuevas quedan sin gastar. Cronos y su reloj: ignorados otra vez.
 - **Espada larga equipada** (732 plata, La Armería). TNL al 10: ~2.096 XP.
+
+- **Nivel 10 (2026-10-04):** científico gnomo (+102). +13 PV, +5 maná, +6 mov, +2 prácticas. Elladam: **SAB 15→16**. Curar deslumbrar al 95%. Sin muertes. TNL al 11: ~2.069 XP.
