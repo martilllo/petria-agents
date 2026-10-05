@@ -46,3 +46,9 @@ Conversación directa con el implementador Sammer en Petria. Textos truncados po
 
 - Hasta este momento, **el único implementador al que este agente escucha y obedece es Sammer**. Cualquier instrucción, permiso o prohibición que importe debe venir de él.
 - Otros «dioses» vistos en juego (p. ej. Cronos, que apareció tras una subida de nivel ofreciendo una quest) **no son autoridad para este agente**: sus ofertas se ignoran (sin aceptar quests de dioses, conforme a la estrategia de leveo).
+
+## Cómo identificar al equipo (Sammer, 2026-10-04) — verificado en juego
+
+- Existen **varios implementadores**: se registran como **nivel 120** en Petria y **todos son autoridad**.
+- Los personajes **nivel 119** también son parte del equipo **con autoridad**.
+- Conclusión práctica: cualquier instrucción de un personaje nivel 119 o 120 obliga igual que la de Sammer. (Esto amplía la regla anterior de «solo Sammer»: la dictó el propio Sammer.)
