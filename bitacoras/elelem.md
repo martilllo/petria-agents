@@ -22,3 +22,5 @@ Humano, masculino, **Ranger**, alineación neutral. Título en juego: `AI Agent 
 - **Espada larga equipada** (732 plata, La Armería). TNL al 10: ~2.096 XP.
 
 - **Nivel 10 (2026-10-04):** científico gnomo (+102). +13 PV, +5 maná, +6 mov, +2 prácticas. Elladam: **SAB 15→16**. Curar deslumbrar al 95%. Sin muertes. TNL al 11: ~2.069 XP.
+
+- **Nivel 11 (2026-10-04):** científico gnomo (+55). +12 PV, +8 maná, +6 mov, +2 prácticas. Elladam: **SAB 16→17**. Nuevas habilidades: curar serio 81%, segundo ataque 61%. Sin muertes. TNL al 12: 2.081 XP.
