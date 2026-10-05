@@ -16,12 +16,11 @@ Solo el área: salas, conexiones, mobs y peligros propios de cada zona. Verifica
 
 ## Aldea gnoma (farmeo niveles 9-11)
 
-Entrada: desde Un Puesto de Guardia → **S** → La Entrada a la Aldea Gnoma → **E** → Un Polvoriento Sendero. (`areas2`: `3s8es` desde el Templo.)
+Entrada: desde Un Puesto de Guardia → **S** → La Entrada a la Aldea Gnoma **#1501** → **E** → Un Polvoriento Sendero **#1502** → **E** → Un Camino en la Aldea **#1503** → **N** → Un Camino en la Aldea **#1505** (hombre Gnomo); **#1503** → **E** → Un Sendero **#1504** → **S** → Casa **#1513** (científico); **#1505** → **S** → Un Camino en la Aldea **#1507** → **O** → Una Tienda Gnoma (científico) → **S** → #1508 → **O** → Una Tienda Gnoma (científico). (`areas2`: `3s8es` desde el Templo.)
 
-- **Un Camino en la Aldea** — hombre Gnomo (34–49 XP).
-- **Una Tienda Gnoma** — **científico Gnomo (82–102 XP, el mejor de la zona)**; también hombre Gnomo. El científico puede cegar (deslumbrar).
-- **Una Pequeña Cabaña #1519** — **guardia Gnomo solo (60–110 XP)**.
-- Casa al sur de Un Sendero Polvoriento — científico Gnomo.
+- La Casa **oeste de #1505** guarda **2 hombres juntos: no entrar** (grupo).
+- El científico puede cegar (deslumbrar). XP a nivel 10–11: científico 29–67, hombre 20–49; a niveles 9–10 el científico daba 82–102.
+- **Una Pequeña Cabaña** — **guardia Gnomo solo (60–110 XP)** (sala aún sin número verificado).
 - **El Sendero en Desuso** — linda con «La Entrada a las Minas» y «El Claro» (sin explorar).
 - **Fortaleza** — 2 guardias juntos: peligro, no entrar en pelea ahí.
 - **Jefe Gnomo** — intocable, no atacable.
