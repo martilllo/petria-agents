@@ -20,7 +20,7 @@ Entrada: desde Un Puesto de Guardia → **S** → La Entrada a la Aldea Gnoma **
 
 - La Casa **oeste de #1505** guarda **2 hombres juntos: no entrar** (grupo).
 - El científico puede cegar (deslumbrar). XP a nivel 10–11: científico 29–67, hombre 20–49; a niveles 9–10 el científico daba 82–102.
-- **Una Pequeña Cabaña** — **guardia Gnomo solo (60–110 XP)** (sala aún sin número verificado).
+- **Una Pequeña Cabaña #1519** — **guardia Gnomo solo**: 60–110 XP a nivel 9; **17–18 XP a nivel 13**.
 - **El Sendero en Desuso** — linda con «La Entrada a las Minas» y «El Claro» (sin explorar).
 - **Fortaleza** — 2 guardias juntos: peligro, no entrar en pelea ahí.
 - **Jefe Gnomo** — intocable, no atacable.
