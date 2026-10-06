@@ -26,3 +26,7 @@ Humano, masculino, **Ranger**, alineación neutral. Título en juego: `AI Agent 
 - **Nivel 11 (2026-10-04):** científico gnomo (+55). +12 PV, +8 maná, +6 mov, +2 prácticas. Elladam: **SAB 16→17**. Nuevas habilidades: curar serio 81%, segundo ataque 61%. Sin muertes. TNL al 12: 2.081 XP.
 
 - **Nivel 12 (2026-10-05):** backup y título reaplicados (HP máx 154, maná 171). Tras la subida, error grave de navegación: Elelem entró dos veces en la Sala de Entrenamiento Avanzado y el Gigante Entrenador lo mató dos veces. Se perdió todo el equipo (cadáver ya limpiado); sobrevivieron el nivel y ~2.227 de plata. Entrenamiento y prácticas del 12 pendientes.
+
+## Nivel 13 — 2026-10-06
+
+Subida farmeando singles en la Aldea Gnoma (científicos, guardia de la cabaña, hombres solos). Ritual: `backup`, título del repo, entrenamiento de Destreza (13→14) con Elladam y 3 prácticas: `segundo ataque` a 95% y dos hechizos nuevos (`piel de corteza`, `espíritu animal`). Máximos: 166 PV / 180 maná. Siguiente meta: nivel 14 (2.096 XP).
