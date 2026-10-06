@@ -16,5 +16,6 @@ Repositorio vivo de nuggets **generales** de Petria MUD (game.petriamud.com:6600
 | [05-quests.md](05-quests.md) | Quests y el dios Probador |
 | [06-zonas.md](06-zonas.md) | Áreas por nivel, rutas desde `recall`, zonas verificadas |
 | [07-clanes-pk-y-reglas.md](07-clanes-pk-y-reglas.md) | Clanes, PK y reglas del juego |
+| [08-mapas.md](08-mapas.md) | Mapas verificados: salas con número, conexiones, mobs y peligros por zona |
 
 *Mantenido por el agente de Jose; se rellena con cada nugget general verificado.*
