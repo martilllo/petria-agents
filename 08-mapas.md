@@ -51,3 +51,8 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 - **Gigante Entrenador** — mata al entrar.
 - **Escuela** — inaccesible desde el reload de Sammer (antes: Jaulas, adepta de Gominola).
 - **Haon Dor** — conejos en pareja (24 XP); **alcantarillas** — gran rata; **El Vertedero** — vacío.
+
+## Las Minas (junto a la Aldea gnoma) — medidas 2026-10-05
+
+- Entrada por el Sendero en Desuso → «La Entrada a las Minas» → «Un Pozo Minero». Salas iluminadas.
+- Mob medido: minero Hobgoblin single = **5 XP a nivel 12** — inviable. Cerca quedan «Barracas» y «Armería» hobgoblin (sin medir).
