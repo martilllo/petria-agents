@@ -12,7 +12,7 @@
 | `otear` / `otear <dirección>` | Ver mobs cercanos (hasta 3 salas en esa dirección) |
 | `considerar <objetivo>` | Medir nivel del mob antes de atacar (tabla abajo) |
 | `matar` / `atacar <objetivo>` | Iniciar combate |
-| `huir` | Escapar de un combate perdido |
+| `huir` | Escapar de un combate perdido. **Cuesta XP** (verificado: 10 XP a nivel bajo y 25 XP a nivel 13 con `recall` en combate): úsalo para vivir, no como rutina |
 | `coger todo cuerpo` | Saquear un cadáver (oro y equipo) |
 | `sacrificar <cuerpo/objeto>` | Ofrecerlo a tu dios por plata; las monedas que da ÷ 3 ≈ nivel del mob/objeto (truco para medir niveles). **Ojo:** es lento; solo compensa si buscas plata, no para farmear XP (verificado: en la Arena los cadáveres traen «Nada.» y el ingreso era por sacrificios de +3 a +12 plata) |
 | `recall` | Volver al punto de inicio (Templo de Midgaard) |
@@ -33,6 +33,8 @@
 **Regla práctica:** atacar solo lo que salga fácil o perfecto. Nada de +5 o más.
 
 - **«No es digno de tu esfuerzo» aún da XP:** un mob muy por debajo de tu nivel rinde poco, pero no cero (verificado a nivel 12: 17–19 XP). Sirven como relleno cuando no hay nada mejor; no los descartes por el aviso.
+
+- **Resolución de nombres genéricos:** `matar <nombre>` puede enganchar al mob peligroso de nombre parecido que haya cerca, no al débil que querías (verificado: `matar goblin` en la Fortaleza resolvió al teniente goblin y entraron dos enemigos). Con `considerar` y nombres completos siempre que se pueda.
 
 ### Ficha, entrenamiento y prácticas
 | Comando | Para qué |

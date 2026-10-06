@@ -68,3 +68,12 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 
 - Ruta desde `recall`: `.2s,3e,4n,2w,3n,2e,n,e,n` y luego abajo; comparte el arranque con las Llanuras del Norte.
 - Mobs medidos a nivel 13: elfo = **6 XP**, chucho (perro) = **0 XP**; `considerar` los marca «no es digno de tu esfuerzo». No compensa a nivel 13.
+
+## Fortaleza Goblin (descartada 2026-10-06, nivel 13)
+
+- Ruta desde `recall`: `.6s,2e,3s,2w,7s,2e,5s`. A la entrada hay **dos tenientes goblin juntos** (grupo).
+- En el túnel, un «goblin» solitario engaña: `matar goblin` resolvió al **teniente** y entraron dos enemigos, con intentos de desarme y zancadilla y daño sostenido. Teniente = **+20 XP a nivel 13**, pero la zona no permite singles seguros: **descartada para farmear**.
+
+## Bosque Sagrado (entrada no localizada, 2026-10-06)
+
+- `areas2` lo lista 5–20 con ruta `3s8en`, pero no se encontró entrada practicable: el callejón es sin salida (muro cerrado) y el Santuario del Portal Druídico denegó la entrada. Pendiente de otra vía.

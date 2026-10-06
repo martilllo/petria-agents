@@ -50,3 +50,7 @@ Paths en formato `.direcciones` desde el punto de `recall`. Peligro ☠︎︎ = 
 ## Valle de los Elfos a nivel 13 (verificado en juego, 2026-10-06)
 
 - Ruta desde `recall`: `.2s,3e,4n,2w,3n,2e,n,e,n`. A nivel 13 sus mobs de entrada pagan poco (elfo 6 XP, chucho 0 XP; «no es digno de tu esfuerzo»): no compensa frente a la Aldea gnoma (13–20 XP/baja).
+
+## Fortaleza Goblin a nivel 13 (verificado en juego, 2026-10-06)
+
+- Ruta desde `recall`: `.6s,2e,3s,2w,7s,2e,5s`. Los tenientes van en grupo, desarman y hacen zancadilla; un teniente paga ~20 XP a nivel 13 pero no hay singles seguros. **Descartada para farmear en solitario.**
