@@ -56,3 +56,4 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 
 - Entrada por el Sendero en Desuso → «La Entrada a las Minas» → «Un Pozo Minero». Salas iluminadas.
 - Mob medido: minero Hobgoblin single = **5 XP a nivel 12** — inviable. Cerca quedan «Barracas» y «Armería» hobgoblin (sin medir).
+- «La Armería Hobgoblin»: vacía de mobs (solo armas tiradas). «Las Barracas de los Hobgoblins»: DOS soldados Hobgoblin juntos — grupo, no medibles como singles.
