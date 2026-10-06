@@ -46,3 +46,7 @@ Paths en formato `.direcciones` desde el punto de `recall`. Peligro ☠︎︎ = 
 ## Llanuras del Norte a nivel 13 (verificado en juego, 2026-10-06)
 
 - Ruta de entrada desde `recall`: `.2s,3e,4n,2w,3n`; la fauna de entrada (loba sola) paga **0 XP a nivel 13**. Zona no útil para levear a este nivel; la Aldea gnoma (13–19 XP/baja a nivel 13) sigue rindiendo más.
+
+## Valle de los Elfos a nivel 13 (verificado en juego, 2026-10-06)
+
+- Ruta desde `recall`: `.2s,3e,4n,2w,3n,2e,n,e,n`. A nivel 13 sus mobs de entrada pagan poco (elfo 6 XP, chucho 0 XP; «no es digno de tu esfuerzo»): no compensa frente a la Aldea gnoma (13–20 XP/baja).
