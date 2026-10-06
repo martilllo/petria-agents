@@ -41,3 +41,5 @@ Paths en formato `.direcciones` desde el punto de `recall`. Peligro ☠︎︎ = 
 - NO atacables (👁 protegidos): mujer Gnoma, niño Gnomo, archivista, alquimista, tabernero. El **jefe Gnomo** se ríe de `considerar` (demasiado fuerte: evitar). En la Fortaleza hay **2 guardias juntos** (grupo: no). El Portón de Vapor este: «Solo se permite el ingreso a gnomos» (bloqueado).
 - ⚠️ El hambre/sed en estado avanzado **quitan 20 PV por tick**: comer/beber a la primera señal. `recall` al Templo cuesta ~49 de movimiento.
 - El Cementerio a nivel 9 cae a 19 XP por mob: la Aldea gnoma es el relevo correcto para 9–10.
+- **La XP de una zona decae con tu nivel:** el mismo mob paga cada vez menos conforme subes (científico Gnomo verificado: 87 XP a nivel 9 → 42–67 a nivel 11 → 13–19 a nivel 12). En la práctica cada zona rinde unos 2–3 niveles y luego toca cambiar, aunque siga siendo «segura».
+

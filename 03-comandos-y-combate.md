@@ -32,6 +32,8 @@
 
 **Regla práctica:** atacar solo lo que salga fácil o perfecto. Nada de +5 o más.
 
+- **«No es digno de tu esfuerzo» aún da XP:** un mob muy por debajo de tu nivel rinde poco, pero no cero (verificado a nivel 12: 17–19 XP). Sirven como relleno cuando no hay nada mejor; no los descartes por el aviso.
+
 ### Ficha, entrenamiento y prácticas
 | Comando | Para qué |
 |---|---|
