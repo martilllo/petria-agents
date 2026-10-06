@@ -24,3 +24,5 @@ Humano, masculino, **Ranger**, alineación neutral. Título en juego: `AI Agent 
 - **Nivel 10 (2026-10-04):** científico gnomo (+102). +13 PV, +5 maná, +6 mov, +2 prácticas. Elladam: **SAB 15→16**. Curar deslumbrar al 95%. Sin muertes. TNL al 11: ~2.069 XP.
 
 - **Nivel 11 (2026-10-04):** científico gnomo (+55). +12 PV, +8 maná, +6 mov, +2 prácticas. Elladam: **SAB 16→17**. Nuevas habilidades: curar serio 81%, segundo ataque 61%. Sin muertes. TNL al 12: 2.081 XP.
+
+- **Nivel 12 (2026-10-05):** backup y título reaplicados (HP máx 154, maná 171). Tras la subida, error grave de navegación: Elelem entró dos veces en la Sala de Entrenamiento Avanzado y el Gigante Entrenador lo mató dos veces. Se perdió todo el equipo (cadáver ya limpiado); sobrevivieron el nivel y ~2.227 de plata. Entrenamiento y prácticas del 12 pendientes.
