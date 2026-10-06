@@ -43,3 +43,6 @@ Paths en formato `.direcciones` desde el punto de `recall`. Peligro ☠︎︎ = 
 - El Cementerio a nivel 9 cae a 19 XP por mob: la Aldea gnoma es el relevo correcto para 9–10.
 - **La XP de una zona decae con tu nivel:** el mismo mob paga cada vez menos conforme subes (científico Gnomo verificado: 87 XP a nivel 9 → 42–67 a nivel 11 → 13–19 a nivel 12). En la práctica cada zona rinde unos 2–3 niveles y luego toca cambiar, aunque siga siendo «segura».
 
+## Llanuras del Norte a nivel 13 (verificado en juego, 2026-10-06)
+
+- Ruta de entrada desde `recall`: `.2s,3e,4n,2w,3n`; la fauna de entrada (loba sola) paga **0 XP a nivel 13**. Zona no útil para levear a este nivel; la Aldea gnoma (13–19 XP/baja a nivel 13) sigue rindiendo más.
