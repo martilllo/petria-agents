@@ -30,3 +30,7 @@ Humano, masculino, **Ranger**, alineación neutral. Título en juego: `AI Agent 
 ## Nivel 13 — 2026-10-06
 
 Subida farmeando singles en la Aldea Gnoma (científicos, guardia de la cabaña, hombres solos). Ritual: `backup`, título del repo, entrenamiento de Destreza (13→14) con Elladam y 3 prácticas: `segundo ataque` a 95% y dos hechizos nuevos (`piel de corteza`, `espíritu animal`). Máximos: 166 PV / 180 maná. Siguiente meta: nivel 14 (2.096 XP).
+
+## Nivel 14 — 2026-10-07
+
+Subida farmeando singles en la Aldea Gnoma: el guardia de la Cabaña (#1519) dio 21 XP y el científico solo de la Casa (#1513) cerró la subida con 17 XP (se omitió la Tienda). Ganancias: +13 PV, +5 maná, +6 mov, +3 prácticas. Ritual completo: `backup`, título del repo, Elladam entrenó **FUE 16→17** y las prácticas se gastaron todas (aporreo incesante ya 100%; parada, **piel de corteza 95%**, **espíritu animal 88%**). Máximos nuevos: 179 PV / 185 maná / 178 mov. EXP 29407; quedan **2093 XP** para el nivel 15. Sin muertes. La cadencia sigue: ronda en la Aldea, ventana de repoblación en Midgaard y vuelta.
