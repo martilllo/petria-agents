@@ -55,3 +55,6 @@ Paths en formato `.direcciones` desde el punto de `recall`. Peligro ☠︎︎ = 
 ## Fortaleza Goblin a nivel 13 (verificado en juego, 2026-10-06)
 
 - Ruta desde `recall`: `.6s,2e,3s,2w,7s,2e,5s`. Los tenientes van en grupo, desarman y hacen zancadilla; un teniente paga ~20 XP a nivel 13 pero no hay singles seguros. **Descartada para farmear en solitario.**
+
+- **Marinero de Midgaard (verificado 2026-10-07):** es entrenador, no tendero; `lista` no funciona con él y no hay bote/barca/balsa/barco localizable ni comprable en la ciudad. La Tienda de Jonicia solo alquila artefactos legendarios (50.000–200.000). El foso de Torre Wyvern sigue sin cruzarse sin bote.
+- **Fábrica de Mobs a nivel 13 (verificado 2026-10-07):** el Suboficial del hall sale «adversario perfecto», pero el daño propio (~5–6 por asalto) no compensa el recibido (~10 por asalto); prueba abortada con 0 bajas. La zona sigue descartada para farmeo en solitario a este nivel; la Aldea gnoma continúa como ruta que rinde.

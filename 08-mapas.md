@@ -47,7 +47,7 @@ Ruta: recall → #3001 → `.2s,3e,7s,w,s` → entrada **#3600** (segura).
 ## Zonas peligrosas o descartadas (verificado)
 
 - **Miden'nir** — goblin/teniente: aggro, desarma y derriba; mató a Elelem (nivel ~12+).
-- **Fábrica de Mobs** — viscosidad tóxica: muerte por desgaste con equipo bajo.
+- **Fábrica de Mobs** — viscosidad tóxica: muerte por desgaste con equipo bajo. En el hall hay un Suboficial solo, y en la cafetería también vive viscosidad tóxica.
 - **Gigante Entrenador** — mata al entrar.
 - **Escuela** — inaccesible desde el reload de Sammer (antes: Jaulas, adepta de Gominola).
 - **Haon Dor** — conejos en pareja (24 XP); **alcantarillas** — gran rata; **El Vertedero** — vacío.
